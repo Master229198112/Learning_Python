@@ -1,3 +1,5 @@
+import time
+
 """if module is in same directory"""
 # import functions
 # from functions import get_todos, write_todos
@@ -8,6 +10,9 @@ from module.functions import get_todos, write_todos
 """if function in in other folder like module folder we have to use
 from folder_name import module_name"""
 # from module import functions
+
+now = time.strftime("%b %d, %Y:%M:%S")
+print("It is", now)
 
 while True:
     # Get user input and strip space chars from it.

@@ -1,5 +1,6 @@
 feet_inches = input("Enter feet and inches: ")
 
+
 def parse(feet_inches):
     parts = feet_inches.split(" ")
     feet = float(parts[0])
@@ -15,7 +16,6 @@ def convert(feet, inches):
 parsed = parse(feet_inches)
 
 result = convert(parsed['feet'], parsed['inches'])
-
 
 print(f"{parsed['feet']} feet and {parsed['inches']} is equal to {result}")
 
