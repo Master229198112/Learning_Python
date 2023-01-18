@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c88e3583-3927-435c-86a4-2b063f3df7dc" name="Changes" comment="Update on 11/01/2023">
-      <change afterPath="$PROJECT_DIR$/App/cli.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/gui.py" afterDir="false" />
+    <list default="true" id="c88e3583-3927-435c-86a4-2b063f3df7dc" name="Changes" comment="Create Basic 2nd App basic GUI without interactions Update on 11/01/2023">
+      <change afterPath="$PROJECT_DIR$/Bonus/bonus_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding_Ninja/Notes_Book/OOPS-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding_Ninja/Notes_Book/OOPS-2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding_Ninja/Notes_Book/OOPS-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding_Ninja/Notes_Book/Time Complexity Analysis.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/main_16.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/App/gui.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,29 +60,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/Learning/Experiments",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Learning/Experiments&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Learning\Experiments" />
       <recent name="E:\Learning\Bug-Fixing_Exercises" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Learning\App" />
       <recent name="E:\Learning\module" />
       <recent name="E:\Learning\Coding_Exercises\Day_3" />
       <recent name="E:\Learning\Experiments\Day_6" />
       <recent name="E:\Learning\Experiments\Day_1" />
-      <recent name="E:\Learning\Bug-Fixing_Exercises\Day_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.gui">
+  <component name="RunManager" selected="Python.gui (1)">
     <configuration name="bonus_15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,19 +105,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Day_1" />
+    <configuration name="bonus_16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Coding_Experiments/Day_15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bonus" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Coding_Experiments/Day_15/exercise_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bonus/bonus_16.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,19 +126,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Day_1" />
+    <configuration name="gui (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Coding_Experiments/Day_15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/App" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Coding_Experiments/Day_15/exercise_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/App/gui.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,20 +168,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main_15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main_16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="E:\Learning\venv\Scripts\python.exe" />
-      <option name="SDK_NAME" value="Python 3.10 (Learning)" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Main" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main/main_15.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main/main_16.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,19 +190,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.main_16" />
+      <item itemvalue="Python.bonus_16" />
       <item itemvalue="Python.gui" />
+      <item itemvalue="Python.gui (1)" />
       <item itemvalue="Python.bonus_15" />
-      <item itemvalue="Python.exercise_3" />
-      <item itemvalue="Python.exercise_4" />
-      <item itemvalue="Python.main_15" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.gui (1)" />
+        <item itemvalue="Python.main_16" />
+        <item itemvalue="Python.bonus_16" />
         <item itemvalue="Python.gui" />
         <item itemvalue="Python.bonus_15" />
-        <item itemvalue="Python.main_15" />
-        <item itemvalue="Python.exercise_4" />
-        <item itemvalue="Python.exercise_3" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +355,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673433754779</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Create Basic 2nd App basic GUI without interactions Update on 11/01/2023">
+      <created>1673437363027</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1673437363027</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -375,7 +386,8 @@
     <MESSAGE value="Update on 27/12/2022" />
     <MESSAGE value="Update on 28/12/2022" />
     <MESSAGE value="Update on 11/01/2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update on 11/01/2023" />
+    <MESSAGE value="Create Basic 2nd App basic GUI without interactions Update on 11/01/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Basic 2nd App basic GUI without interactions Update on 11/01/2023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
