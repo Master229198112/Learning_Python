@@ -2,9 +2,8 @@ Play
 Mouse
 fix
 shop
-fan
-how are you
-hello
-Pizza
+New FanGo backPizza
 files
 Master Python
+Anything
+Hello Anything
