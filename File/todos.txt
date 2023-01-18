@@ -2,8 +2,6 @@ Play
 Mouse
 fix
 shop
-New FanGo backPizza
-files
 Master Python
 Anything
 Hello Anything
